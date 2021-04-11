@@ -9,7 +9,7 @@ Ce projet a été réalisé dans le cadre de ma formation en licence informatiqu
 ## Technologies
 ***
 Liste des technologies utilisées dans le projet :
-* [gcc](https://fr.wikipedia.org/wiki/C%2B%2B) : Version 9.2.0 
+* [gcc](https://fr.wikipedia.org/wiki/GNU_Compiler_Collection) : Version 9.2.0 
 
 ## Installation
 ***
