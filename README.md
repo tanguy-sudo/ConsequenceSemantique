@@ -26,5 +26,5 @@ $ gcc examen.c  -Wall -O3 -o examen.exe
 ## FAQs
 ***
 Une liste de questions fréquemment posées :
-1. **myciel6.col mais du temps à être traité.**
-Cela peut prendre plusieurs minutes a créé le fichier ```.dot```. 
+1. **wumpus_1.h mais du temps à être traité.**
+Le programme n'est pas assez optimisé pour traité en un temps raisonnable le wumpus_1.h. 
